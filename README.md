@@ -1,3 +1,2 @@
 # layout_app
-
-A new Flutter project.
+การสร้างหน้าจอ application แรกด้วย flutter layout 
